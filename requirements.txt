@@ -1,0 +1,2 @@
+scrapingbee
+python-dotenv
